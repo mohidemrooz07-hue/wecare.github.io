@@ -1,0 +1,9 @@
+title: We + Care
+description: App policies and support information
+theme: minima
+markdown: kramdown
+baseurl: "/wecare.github.io"
+header_pages:
+  - privacy-policy.md
+  - terms-of-use.md
+  - support.md
